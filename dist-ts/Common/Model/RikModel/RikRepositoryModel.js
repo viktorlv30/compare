@@ -1,0 +1,9 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+class ProductGroupResultItem {
+}
+exports.ProductGroupResultItem = ProductGroupResultItem;
+class MacrogroupResultItem {
+}
+exports.MacrogroupResultItem = MacrogroupResultItem;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiUmlrUmVwb3NpdG9yeU1vZGVsLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vLi4vc3JjLXRzL0NvbW1vbi9Nb2RlbC9SaWtNb2RlbC9SaWtSZXBvc2l0b3J5TW9kZWwudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7QUFtQkE7Q0FJQztBQUpELHdEQUlDO0FBUUQ7Q0FHQztBQUhELG9EQUdDIn0=

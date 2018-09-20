@@ -1,0 +1,18 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const ListAttributes_1 = require("./ListAttributes");
+class FieldAttributesFactory {
+    GetListAttributes() {
+        return {
+            ID: ListAttributes_1.E_LL_AVAILABLE_ATTRIBUTES.ID_FIELD,
+            TYPE: ListAttributes_1.E_LL_AVAILABLE_ATTRIBUTES.TYPE,
+            POS_X: ListAttributes_1.E_LL_AVAILABLE_ATTRIBUTES.POS_X,
+            POS_Y: ListAttributes_1.E_LL_AVAILABLE_ATTRIBUTES.POS_Y,
+            WIDTH: ListAttributes_1.E_LL_AVAILABLE_ATTRIBUTES.WIDTH,
+            HEIGHT: ListAttributes_1.E_LL_AVAILABLE_ATTRIBUTES.HEIGHT,
+            FIXED_VALUE: ListAttributes_1.E_LL_AVAILABLE_ATTRIBUTES.FIXED_VALUE,
+        };
+    }
+}
+exports.FieldAttributesFactory = FieldAttributesFactory;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiRmllbGRBdHRyaWJ1dGVzLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vLi4vLi4vc3JjLXRzL1NlcnZpY2VzL0xhYmVsL0xhYmVsTGF5b3V0L0xpc3RBdHRyaWJ1dGVzL0ZpZWxkQXR0cmlidXRlcy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOztBQUFBLHFEQUE4RTtBQUU5RTtJQUNJLGlCQUFpQjtRQUNiLE9BQU87WUFDSCxFQUFFLEVBQUUsMENBQXlCLENBQUMsUUFBUTtZQUN0QyxJQUFJLEVBQUUsMENBQXlCLENBQUMsSUFBSTtZQUNwQyxLQUFLLEVBQUUsMENBQXlCLENBQUMsS0FBSztZQUN0QyxLQUFLLEVBQUUsMENBQXlCLENBQUMsS0FBSztZQUN0QyxLQUFLLEVBQUUsMENBQXlCLENBQUMsS0FBSztZQUN0QyxNQUFNLEVBQUUsMENBQXlCLENBQUMsTUFBTTtZQUN4QyxXQUFXLEVBQUUsMENBQXlCLENBQUMsV0FBVztTQUdyRCxDQUFDO0lBQ04sQ0FBQztDQUNKO0FBZEQsd0RBY0MifQ==

@@ -1,0 +1,7 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var E_SERVICE_TYPE;
+(function (E_SERVICE_TYPE) {
+    E_SERVICE_TYPE["PANELS"] = "PANELS";
+})(E_SERVICE_TYPE = exports.E_SERVICE_TYPE || (exports.E_SERVICE_TYPE = {}));
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiRV9TRVJWSUNFX1RZUEUuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi9zcmMtdHMvRW51bXMvRV9TRVJWSUNFX1RZUEUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7QUFJQSxJQUFZLGNBR1g7QUFIRCxXQUFZLGNBQWM7SUFFdEIsbUNBQWlCLENBQUE7QUFDckIsQ0FBQyxFQUhXLGNBQWMsR0FBZCxzQkFBYyxLQUFkLHNCQUFjLFFBR3pCIn0=
